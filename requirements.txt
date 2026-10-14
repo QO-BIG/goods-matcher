@@ -1,0 +1,4 @@
+streamlit>=1.38
+fastembed>=0.8
+anthropic>=0.40
+numpy>=1.26
